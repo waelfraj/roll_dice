@@ -4,9 +4,11 @@
 This is a simple dice rolling application built using Flutter. It allows users to roll a virtual dice and view the result on their mobile devices.
 
 ## Screenshots
-![Dice Roll App Screenshot 1](screenshots/one.png)
-![Dice Roll App Screenshot 2](screenshots/two.png)
-![Dice Roll App Screenshot 3](screenshots/three.png)
+<div style="display: flex; justify-content: center;">
+    <img src="screenshots/one.png" alt="Dice Roll App Screenshot 1" width="200"/>
+    <img src="screenshots/two.png" alt="Dice Roll App Screenshot 2" width="200"/>
+    <img src="screenshots/three.png" alt="Dice Roll App Screenshot 3" width="200"/>
+</div>
 
 ## Features
 - Tap the button to roll the dice.
